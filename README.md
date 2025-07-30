@@ -2,6 +2,8 @@
 Desafio Fórum Hub One+Alura
 
 🚀 ForumHub API: Sua Plataforma de Debates Turboalimentada! 🚀
+
+
 E aí, devs! Preparados para mergulhar no código da nossa API REST insana? A gente se jogou de cabeça neste challenge, o ForumHub, pra entregar uma plataforma de debates que é pura elegância e poder. Esqueça as gambiarras e prepare-se para ver a mágica acontecer! ✨
 
 O Que Tem de Baixo do Capô?
